@@ -1,2 +1,2 @@
-# Project-pengelola-kemahasiswaan
-project sistem informasi kemahasiswaan untuk mendukung pengelolaan data mahasiswa
+# ITpeoject1
+Kelompok 3
