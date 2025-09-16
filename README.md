@@ -54,7 +54,7 @@ We would like to extend our thanks to the following sponsors for funding Laravel
 - **[OP.GG](https://op.gg)**
 # Laravel Testing Project
 
-![verameliana-alt](https://github.com/verameliana-alt/kemahasiswaan-TI.git)
+![vera meliana sari](https://github.com/verameliana-alt/kemahasiswaan-TI.git)
 ## Contributing
 
 Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
